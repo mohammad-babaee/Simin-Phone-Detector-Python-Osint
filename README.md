@@ -16,3 +16,5 @@ $ pip install colorama
 ```
 
 <p>Enjoy OSINT ...</p>
+
+<p> This Script Published Under MIT License </p>
