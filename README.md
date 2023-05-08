@@ -1,2 +1,15 @@
 # Simin-Phone-Detector-Python-Osint
-Do You Work In Osint &amp; Information Gattering ? Do You Need To know About Phone Numbers &amp; Detect Them ? The Operator Name ? Country ? Evevn The Number Is Active Or Not ? So , This Script is For You ! Enjoy OSINT ...
+# Do You Work In Osint &amp; Information Gattering ? 
+<p>Do You Need To know About Phone Numbers &amp; Detect Them ? </p>
+<p>The Operator Name ? Country ? </p>
+<p>Evevn , The Number Is Active Or Not ?</p> 
+<p>So , This Script is For You !</p>
+
+# Note : You Need Install This Dependencies befor Start Working With This Script :
+
+```console
+$ pip install requests
+$ pip install colorama
+```
+
+<p>Enjoy OSINT ...</p>
